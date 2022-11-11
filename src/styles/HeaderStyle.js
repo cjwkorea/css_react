@@ -2,7 +2,7 @@
 
 /** @type {React.CSSProperties} */
 const HeaderSytle = {
-  backgroundColor: "yellow",
+  backgroundColor: "yellowgreen",
 };
 
 export default HeaderSytle;
